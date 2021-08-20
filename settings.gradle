@@ -1,0 +1,3 @@
+rootProject.name = "S01_UseRetrofit2"
+include ':app'
+include ':s01_useretrofit2_verb'
